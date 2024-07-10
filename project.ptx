@@ -6,7 +6,7 @@
         name="web"
         format="custom"
         xsl="slides.xsl"
-        output-filename="index.html"
+        output-filename="slideshow.html"
         />
-  </targets>
+  </targets> 
 </project>
