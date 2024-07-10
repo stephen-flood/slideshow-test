@@ -22,7 +22,7 @@ along with PreTeXt.  If not, see <http://www.gnu.org/licenses/>.
         </macros>
     </docinfo>
 
-    <slideshow>
+    <article>
         <title>PreTeXt</title>
         <subtitle>A Slideshow</subtitle>
 
@@ -43,7 +43,7 @@ along with PreTeXt.  If not, see <http://www.gnu.org/licenses/>.
             </abstract>
         </frontmatter>
 
-        <section>
+        <section> 
             <title>Explanation</title>
 
             <slide>
@@ -263,5 +263,5 @@ along with PreTeXt.  If not, see <http://www.gnu.org/licenses/>.
             </slide>
 
         </section>
-    </slideshow>
+    </article>
 </pretext>
